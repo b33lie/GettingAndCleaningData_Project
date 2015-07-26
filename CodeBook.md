@@ -11,7 +11,6 @@ This code book summarizes the resulting data fields in `tidydata.txt`.
 
 * Mean and Standard deviation for the time in Body Accelaration axis (XYZ)
 	* `tBodyAccMeanX`
-	* `tBodyAccMeanX`
 	* `tBodyAccMeanY`
 	* `tBodyAccMeanZ`
 	* `tBodyAccStdX`
@@ -62,7 +61,7 @@ This code book summarizes the resulting data fields in `tidydata.txt`.
 	* `fBodyAccStdX`
 	* `fBodyAccStdY`
 	* `fBodyAccStdZ`
-* Mean and Standar deviation for the frequency applied using Fast Fourier Transform (FFT) in Body Gyroscope axis (XYZ) 
+* Mean and Standard deviation for the frequency applied using Fast Fourier Transform (FFT) in Body Gyroscope axis (XYZ) 
 	* `fBodyGyroMeanX`
 	* `fBodyGyroMeanY`
 	* `fBodyGyroMeanZ`
@@ -79,16 +78,12 @@ This code book summarizes the resulting data fields in `tidydata.txt`.
 * Mean and Standard deviation for Magnitude calculated using the Euclidean norm and using FFT frequency
 	* `fBodyAccMagMean`
 	* `fBodyAccMagStd`
-	* `fBodyAccMagMeanFreq`
 	* `fBodyBodyAccJerkMagMean`
 	* `fBodyBodyAccJerkMagStd`
-	* `fBodyBodyAccJerkMagMeanFreq`
 	* `fBodyBodyGyroMagMean`
 	* `fBodyBodyGyroMagStd`
-	* `fBodyBodyGyroMagMeanFreq`
 	* `fBodyBodyGyroJerkMagMean`
 	* `fBodyBodyGyroJerkMagStd`
-	* `fBodyBodyGyroJerkMagMeanFreq`
 
 ## Activity Labels
 * `WALKING` (value `1`): subject was walking during the test
