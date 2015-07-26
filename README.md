@@ -1,5 +1,9 @@
 # Getting and Cleaning Data - Course Project
 
+## Introduction
+This is the course project for the Coursera course "Getting and Cleaning data", part of the Data Science specialization.
+
+## About the script and the tidy dataset
 This is the course project for the Getting and Cleaning Data Coursera course.
 The R script, `run_analysis.R`, does the following:
 
@@ -12,3 +16,6 @@ The R script, `run_analysis.R`, does the following:
 7. Creates a tidy dataset that consists of the average (mean) value of each variable for each subject and activity pair.
 
 The end result is shown in the file `tidydata.txt`.
+
+## About the Code Book
+The CodeBook.md file explains the transformations performed and the resulting data and variables.
