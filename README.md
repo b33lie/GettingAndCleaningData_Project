@@ -6,7 +6,7 @@ This is the course project for the Coursera course "Getting and Cleaning data", 
 ## About the script and the tidy dataset
 This is the course project for the Getting and Cleaning Data Coursera course.
 
-The R script, `run_analysis.R`, does the following:
+### The R script, `run_analysis.R`, does the following:
 1. Download the dataset from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip if it does not already exist in the working directory
 2. Load the activity and feature info
 3. Loads both the training and test datasets, keeping only those columns which reflect a mean or standard deviation
@@ -17,7 +17,7 @@ The R script, `run_analysis.R`, does the following:
 
 The end result is shown in the file `tidydata.txt`.
 
-Step to execute the script.
+### Step to execute the script.
 1. Copy the script 'run_analysis.R' into the working directory.
 2. Run the script with command 'source("run_analysis.R")'.
 3. A text file `tidydata.txt` will be generated in the working directory.
